@@ -1,2 +1,2 @@
-print("HELLO LUNIX!!")
+print("HELLO LUNIX!")
 
